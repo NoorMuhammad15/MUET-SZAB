@@ -1,2 +1,2 @@
-# MUET-SZAB
+# ABSTRACT_BASE CLASS
 this will you to understand the abstract base class easily........
